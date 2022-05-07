@@ -33,14 +33,7 @@
 		return valor;
 	}
 %>
-	<h1>Creació personatge</h1><%-- 
-	<h3>Valors generats: </h3>
-	<p><% int valor1 = getValor(); out.print(valor1); %>,
-	<% int valor2 = getValor(); out.print(valor2); %>,
-	<% int valor3 = getValor(); out.print(valor3); %>,
-	<% int valor4 = getValor(); out.print(valor4); %>,
-	<% int valor5 = getValor(); out.print(valor5); %>,
-	<% int valor6 = getValor(); out.print(valor6); %></p> --%>
+	<h1>Creació personatge</h1>
 	<form action="insertarbd.jsp">
 		<label for="nom">Nom:</label>
 		<input type="text" name="nom"><br><br>
