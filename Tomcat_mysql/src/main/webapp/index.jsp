@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>RPG Game</title>
-<style type="text/css">
+<style type="text/css"> 
 	h1 {
 		font-size: 100px;
 	}
