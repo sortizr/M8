@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Generador de cartes RPG</title>
+<title>Cartes RPG</title>
  <link rel="stylesheet" href="css/styles.css" type="text/css" />
 </head>
 <body>
