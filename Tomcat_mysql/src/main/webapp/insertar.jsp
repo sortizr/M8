@@ -14,6 +14,7 @@
 <style>
 	body {
 		text-align:center;
+		background-color: black;
 	}
 </style>
 <%! 
