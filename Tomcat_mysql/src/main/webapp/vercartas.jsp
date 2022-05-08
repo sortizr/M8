@@ -6,7 +6,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<<<<<<< HEAD
 <title>Cartas RPG 2</title>
+=======
+<title>Cartas RPG</title>
+>>>>>>> captcha
 </head>
 <body>
 <%

@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>RPG Game</title>
-<style type="text/css">
+<style type="text/css"> 
 	h1 {
 		font-size: 100px;
 	}
@@ -26,11 +26,17 @@
 		color: white;
 		padding: 10px;
 	}
+	button:nth-child(4) {
+		background-color: yellow;
+		color: white;
+		padding: 10px;
+	}
 </style>
 </head>
 <body>
 	<h1>RPG GAME</h1>
 	<button onclick="window.location.href='insertar.jsp'">Insertar carta</button>
 	<button onclick="window.location.href='vercartas.jsp'">Ver cartas</button>
+	<button onclick="window.location.href='canvi_password.jsp'">Canviar password</button>
 </body>
 </html>
