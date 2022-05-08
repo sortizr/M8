@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Cartas RPG</title>
+<title>Cartas RPG 2</title>
 </head>
 <body>
 <%
